@@ -1,0 +1,23 @@
+{
+  "name": "starter-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Alerter.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viacheslav Samodelkin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-spsave": "^3.0.0",
+    "gulp-typescript": "^3.1.6",
+    "gulp-webpack": "^1.5.0",
+    "sp-pnp-js": "^2.0.5",
+    "ts-loader": "^2.1.0",
+    "typescript": "^2.3.3",
+    "webpack": "^2.6.0",
+    "webpack2-stream-watch": "^3.2.2"
+  }
+}

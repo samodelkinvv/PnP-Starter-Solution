@@ -1,0 +1,12 @@
+﻿{
+    "files": [
+        "Site Assets/Alerter.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "sourceMap": true,
+        "module": "commonjs",
+        "moduleResolution": "node"
+    }
+}
