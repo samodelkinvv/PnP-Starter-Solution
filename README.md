@@ -4,7 +4,7 @@ Simple solution which includes [PnP-Core-JS](https://github.com/SharePoint/PnP-J
 fsfsf
 Instructions:
 
-Install Node
-Clone repository
-Navigate to repository path and perform
+Install Node,</br>
+Clone repository,
+Navigate to repository path and perform:
 npm install
