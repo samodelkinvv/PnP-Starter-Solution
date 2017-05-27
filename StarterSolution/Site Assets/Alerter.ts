@@ -10,8 +10,8 @@ export class Alerter {
 		pnp.setup({
 			headers: {
 				"Accept": "application/json; odata=verbose"
-			;}
-		})
+			}
+		});
 		pnp.sp.web.select("Title").get().then(r => {
         	alert(r.Title);
         });
