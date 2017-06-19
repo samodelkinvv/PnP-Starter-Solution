@@ -16,4 +16,4 @@ export class Alerter {
         	alert(r.Title);
         });
 	}
-} 
+}

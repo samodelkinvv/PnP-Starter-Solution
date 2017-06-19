@@ -9,6 +9,7 @@
   "author": "Viacheslav Samodelkin",
   "license": "ISC",
   "devDependencies": {
+    "es6-promise": "^4.1.0",
     "gulp": "^3.9.1",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-spsave": "^3.0.0",
@@ -18,6 +19,7 @@
     "ts-loader": "^2.1.0",
     "typescript": "^2.3.3",
     "webpack": "^2.6.0",
-    "webpack2-stream-watch": "^3.2.2"
+    "webpack2-stream-watch": "^3.2.2",
+    "whatwg-fetch": "^2.0.3"
   }
 }
